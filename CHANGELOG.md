@@ -1,5 +1,22 @@
 # Changelog
 
+## [4.5.0](https://github.com/openfoodfacts/smooth-app/compare/v4.4.0...v4.5.0) (2023-02-05)
+
+
+### 👷 Refactoring
+
+* Flutter v3.7.0 ([#3642](https://github.com/openfoodfacts/smooth-app/issues/3642)) ([ad7ac77](https://github.com/openfoodfacts/smooth-app/commit/ad7ac7732aa1a3498ddb366ad7aabbb7e2245792))
+
+
+### 🚀 Features
+
+* 2484 - now when editing we go to the full image with the cropped area on top ([#3658](https://github.com/openfoodfacts/smooth-app/issues/3658)) ([8b38a72](https://github.com/openfoodfacts/smooth-app/commit/8b38a72be74505118f75e56b21929c530fb486aa))
+* 3585 - upgrade to flutter 3.7 ([#3666](https://github.com/openfoodfacts/smooth-app/issues/3666)) ([ad46236](https://github.com/openfoodfacts/smooth-app/commit/ad46236bdf77afea18b12cc69b3ee64a6752ee73))
+* 3656 - privacy compliance for cropped new images ([#3673](https://github.com/openfoodfacts/smooth-app/issues/3673)) ([c9935da](https://github.com/openfoodfacts/smooth-app/commit/c9935da9b6a7b75ffca64f85ce5bf7dc9e81964e))
+* 3657 - blue banner on bottom end when in "TEST ENV" ([#3660](https://github.com/openfoodfacts/smooth-app/issues/3660)) ([e9236a4](https://github.com/openfoodfacts/smooth-app/commit/e9236a43a8ee99b47aa1cb3226414f8944979247))
+* Add undo option when product in list deleted! ([#3648](https://github.com/openfoodfacts/smooth-app/issues/3648)) ([b013a9a](https://github.com/openfoodfacts/smooth-app/commit/b013a9a58374974dae008f81ce15910c2ca53c18))
+* Wrap list names on product page ([#3647](https://github.com/openfoodfacts/smooth-app/issues/3647)) ([bf1fe91](https://github.com/openfoodfacts/smooth-app/commit/bf1fe91bc1a9fad798dce6450338d59acea26d7f))
+
 ## [4.4.0](https://github.com/openfoodfacts/smooth-app/compare/v4.3.0...v4.4.0) (2023-01-29)
 
 
